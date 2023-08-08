@@ -1,2 +1,2 @@
-# Programacao-Avancada
-Repositório para ensino de POO em C++
+# C++
+Repositório para estudo de linguagem C++
